@@ -33,7 +33,7 @@ DTEND;TZID=Europe/Brussels:20251112T130000
 UID:510965-20251112-1100@webuntis-sync
 DESCRIPTION:Vander Vennet\n1IT3a / 1IT3b\n--------------------\nℹ️ Lab
  o
-LOCATION:02.07_B.VIA (40) Leslokaal
+LOCATION:02.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web technology
@@ -68,8 +68,8 @@ DTEND;TZID=Europe/Brussels:20251113T160000
 UID:1108772-20251113-1400@webuntis-sync
 DESCRIPTION:Dams\n1IT1a / 1IT1b / 1IT3a / 1IT3b / 1IT4a / 1IT4b\n---------
  -----------\nℹ️ Labo
-LOCATION:00.02.ELL (92) Theorielokaal\, 00.03.ELL (55) Projectlokaal DVG &
-  GDM
+LOCATION:00.02.ELL (61) Projectlokaal DVG & GDM\, 00.03.ELL (55) Projectlo
+ kaal DVG & GDM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Discover IT
@@ -160,7 +160,7 @@ DTEND;TZID=Europe/Brussels:20251119T130000
 UID:510971-20251119-1100@webuntis-sync
 DESCRIPTION:Vander Vennet\n1IT3a / 1IT3b\n--------------------\nℹ️ Lab
  o
-LOCATION:02.06_B.VIA (38) Theorielokaal
+LOCATION:02.06_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web technology
@@ -226,7 +226,7 @@ DTSTART;TZID=Europe/Brussels:20251121T160000
 DTEND;TZID=Europe/Brussels:20251121T180000
 UID:504581-20251121-1600@webuntis-sync
 DESCRIPTION:De Pooter\n1IT3a / 1IT3b\n--------------------\nℹ️ Labo
-LOCATION:03.02.ELL (52) Leslokaal
+LOCATION:03.02.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linux
@@ -235,7 +235,7 @@ DTEND;TZID=Europe/Brussels:20251124T130000
 UID:1197493-20251124-1100@webuntis-sync
 DESCRIPTION:Vander Vennet\n1IT3a / 1IT3b\n--------------------\nℹ️ Lab
  o
-LOCATION:03.11.ELL (50) Leslokaal
+LOCATION:03.11.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web technology
@@ -255,7 +255,7 @@ DTEND;TZID=Europe/Brussels:20251125T130000
 UID:1209271-20251125-1100@webuntis-sync
 DESCRIPTION:Dams\n1IT2a / 1IT2b / 1IT3a / 1IT3b\n--------------------\nℹ
  ️ Labo
-LOCATION:03.04.ELL (50) Leslokaal
+LOCATION:03.04.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IoT experiments
@@ -298,7 +298,7 @@ DTSTART;TZID=Europe/Brussels:20251126T160000
 DTEND;TZID=Europe/Brussels:20251126T180000
 UID:1209220-20251126-1600@webuntis-sync
 DESCRIPTION:De Pooter\n1IT3a / 1IT3b\n--------------------\nℹ️ Labo
-LOCATION:03.04.ELL (50) Leslokaal
+LOCATION:03.04.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Business processes
@@ -506,7 +506,7 @@ DTSTART;TZID=Europe/Brussels:20251205T160000
 DTEND;TZID=Europe/Brussels:20251205T180000
 UID:504593-20251205-1600@webuntis-sync
 DESCRIPTION:De Pooter\n1IT3a / 1IT3b\n--------------------\nℹ️ Labo
-LOCATION:03.04.ELL (50) Leslokaal
+LOCATION:03.04.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IoT experiments
@@ -523,7 +523,7 @@ DTEND;TZID=Europe/Brussels:20251208T130000
 UID:1197505-20251208-1100@webuntis-sync
 DESCRIPTION:Vander Vennet\n1IT3a / 1IT3b\n--------------------\nℹ️ Lab
  o
-LOCATION:03.11.ELL (50) Leslokaal
+LOCATION:03.11.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open labo IT
@@ -643,7 +643,7 @@ DTEND;TZID=Europe/Brussels:20251215T130000
 UID:1197511-20251215-1100@webuntis-sync
 DESCRIPTION:Vander Vennet\n1IT3a / 1IT3b\n--------------------\nℹ️ Lab
  o
-LOCATION:02.06_B.VIA (38) Theorielokaal
+LOCATION:02.06_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open labo IT
@@ -673,7 +673,7 @@ DTEND;TZID=Europe/Brussels:20251216T130000
 UID:1269353-20251216-1100@webuntis-sync
 DESCRIPTION:De Vos / Verhulst\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT
  3b / 1IT5a / 1IT5b\n--------------------\nℹ️ Labo
-LOCATION:01.34.VIA (220) aula
+LOCATION:01.34.VIA (220) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IoT experiments
@@ -740,7 +740,7 @@ DTEND;TZID=Europe/Brussels:20251218T160000
 UID:1283023-20251218-1400@webuntis-sync
 DESCRIPTION:De Pooter\n1IT3a / 1IT3b / 1IT5a / 1IT5b\n--------------------
  \nℹ️ Labo
-LOCATION:03.02.ELL (52) Leslokaal
+LOCATION:03.02.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programming principles
@@ -749,7 +749,7 @@ DTEND;TZID=Europe/Brussels:20251219T110000
 UID:1213290-20251219-900@webuntis-sync
 DESCRIPTION:Peeters\n1IT2a / 1IT2b / 1IT3a / 1IT3b\n--------------------\n
  ℹ️ Labo
-LOCATION:03.07.ELL (49) Leslokaal
+LOCATION:03.07.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linux
