@@ -154,7 +154,7 @@ DTSTART;TZID=Europe/Brussels:20251205T160000
 DTEND;TZID=Europe/Brussels:20251205T180000
 UID:504593-20251205-1600@webuntis-sync
 DESCRIPTION:De Pooter\n1IT3a / 1IT3b\n--------------------\nℹ️ Labo
-LOCATION:03.04.ELL (48) Leslokaal
+LOCATION:03.04.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IoT experiments
@@ -171,7 +171,7 @@ DTEND;TZID=Europe/Brussels:20251208T130000
 UID:1197505-20251208-1100@webuntis-sync
 DESCRIPTION:Vander Vennet\n1IT3a / 1IT3b\n--------------------\nℹ️ Lab
  o
-LOCATION:03.11.ELL (48) Leslokaal
+LOCATION:03.11.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open labo IT
@@ -388,7 +388,7 @@ DTEND;TZID=Europe/Brussels:20251218T160000
 UID:1283023-20251218-1400@webuntis-sync
 DESCRIPTION:De Pooter\n1IT3a / 1IT3b / 1IT5a / 1IT5b\n--------------------
  \nℹ️ Labo
-LOCATION:03.02.ELL (48) Leslokaal
+LOCATION:03.02.ELL (52) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programming principles
