@@ -10,8 +10,8 @@ DTEND;TZID=Europe/Brussels:20260202T110000
 UID:503750-20260202-1000@webuntis-sync
 DESCRIPTION:Mariën\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_SOF1 / 1IT_SOF2 / 1
  IT_VT_SOF1\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data structures
@@ -29,8 +29,8 @@ DTEND;TZID=Europe/Brussels:20260202T160000
 UID:502481-20260202-1400@webuntis-sync
 DESCRIPTION:Dams\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2\n--
  ------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -48,8 +48,8 @@ UID:1324716-20260203-1600@webuntis-sync
 DESCRIPTION:Van Eyken\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 /
   1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n-------------------
  -\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Communication
@@ -67,8 +67,8 @@ UID:1328891-20260205-900@webuntis-sync
 DESCRIPTION:De Vos\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 / 1I
  T_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\n
  ℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Database programming
@@ -77,8 +77,8 @@ DTEND;TZID=Europe/Brussels:20260205T180000
 UID:503939-20260205-1600@webuntis-sync
 DESCRIPTION:De Pooter\n1ITVTAI_EA1 / 1IT_AI1 / 1IT_BUS uitdovend / 1IT_SOF
  1 / 1IT_SOF2\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:.NET OOP
@@ -104,8 +104,8 @@ DTEND;TZID=Europe/Brussels:20260209T110000
 UID:503756-20260209-1000@webuntis-sync
 DESCRIPTION:Mariën\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_SOF1 / 1IT_SOF2 / 1
  IT_VT_SOF1\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data structures
@@ -123,8 +123,8 @@ DTEND;TZID=Europe/Brussels:20260209T160000
 UID:502487-20260209-1400@webuntis-sync
 DESCRIPTION:Dams\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2\n--
  ------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Routing & switching
@@ -133,8 +133,8 @@ DTEND;TZID=Europe/Brussels:20260210T130000
 UID:517668-20260210-1100@webuntis-sync
 DESCRIPTION:Horsmans\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2
  \n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Routing & switching
@@ -169,8 +169,8 @@ UID:1328897-20260212-900@webuntis-sync
 DESCRIPTION:De Vos\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 / 1I
  T_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\n
  ℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analysis
@@ -213,8 +213,8 @@ DTEND;TZID=Europe/Brussels:20260213T130000
 UID:1328825-20260213-1100@webuntis-sync
 DESCRIPTION:Dams\n1IT_BUS uitdovend / 1IT_IMT1 / 1IT_SOF1 / 1IT_SOF2\n----
  ----------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data structures
@@ -223,8 +223,8 @@ DTEND;TZID=Europe/Brussels:20260223T110000
 UID:503762-20260223-1000@webuntis-sync
 DESCRIPTION:Mariën\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_SOF1 / 1IT_SOF2 / 1
  IT_VT_SOF1\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data structures
@@ -242,8 +242,8 @@ DTEND;TZID=Europe/Brussels:20260223T160000
 UID:502493-20260223-1400@webuntis-sync
 DESCRIPTION:Dams\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2\n--
  ------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -260,8 +260,8 @@ DTEND;TZID=Europe/Brussels:20260224T130000
 UID:517674-20260224-1100@webuntis-sync
 DESCRIPTION:Horsmans\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2
  \n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Routing & switching
@@ -279,8 +279,8 @@ UID:1324722-20260224-1600@webuntis-sync
 DESCRIPTION:Van Eyken\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 /
   1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n-------------------
  -\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Communication
@@ -307,8 +307,8 @@ UID:1328903-20260226-900@webuntis-sync
 DESCRIPTION:De Vos\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 / 1I
  T_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\n
  ℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analysis
@@ -335,8 +335,8 @@ DTEND;TZID=Europe/Brussels:20260226T180000
 UID:503945-20260226-1600@webuntis-sync
 DESCRIPTION:De Pooter\n1ITVTAI_EA1 / 1IT_AI1 / 1IT_BUS uitdovend / 1IT_SOF
  1 / 1IT_SOF2\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:.NET OOP
@@ -353,8 +353,8 @@ DTEND;TZID=Europe/Brussels:20260227T130000
 UID:1328831-20260227-1100@webuntis-sync
 DESCRIPTION:Dams\n1IT_BUS uitdovend / 1IT_IMT1 / 1IT_SOF1 / 1IT_SOF2\n----
  ----------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data structures
@@ -363,8 +363,8 @@ DTEND;TZID=Europe/Brussels:20260302T110000
 UID:503768-20260302-1000@webuntis-sync
 DESCRIPTION:Mariën\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_SOF1 / 1IT_SOF2 / 1
  IT_VT_SOF1\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data structures
@@ -382,8 +382,8 @@ DTEND;TZID=Europe/Brussels:20260302T160000
 UID:502499-20260302-1400@webuntis-sync
 DESCRIPTION:Dams\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2\n--
  ------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Routing & switching
@@ -392,8 +392,8 @@ DTEND;TZID=Europe/Brussels:20260303T130000
 UID:517680-20260303-1100@webuntis-sync
 DESCRIPTION:Horsmans\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2
  \n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Routing & switching
@@ -428,8 +428,8 @@ UID:1328909-20260305-900@webuntis-sync
 DESCRIPTION:De Vos\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 / 1I
  T_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\n
  ℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analysis
@@ -464,8 +464,8 @@ DTEND;TZID=Europe/Brussels:20260306T130000
 UID:1328837-20260306-1100@webuntis-sync
 DESCRIPTION:Dams\n1IT_BUS uitdovend / 1IT_IMT1 / 1IT_SOF1 / 1IT_SOF2\n----
  ----------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data structures
@@ -474,8 +474,8 @@ DTEND;TZID=Europe/Brussels:20260309T110000
 UID:503774-20260309-1000@webuntis-sync
 DESCRIPTION:Mariën\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_SOF1 / 1IT_SOF2 / 1
  IT_VT_SOF1\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data structures
@@ -493,8 +493,8 @@ DTEND;TZID=Europe/Brussels:20260309T160000
 UID:502505-20260309-1400@webuntis-sync
 DESCRIPTION:Dams\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2\n--
  ------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -511,8 +511,8 @@ DTEND;TZID=Europe/Brussels:20260310T130000
 UID:517686-20260310-1100@webuntis-sync
 DESCRIPTION:Horsmans\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2
  \n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Routing & switching
@@ -530,8 +530,8 @@ UID:1324728-20260310-1600@webuntis-sync
 DESCRIPTION:Van Eyken\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 /
   1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n-------------------
  -\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
@@ -558,8 +558,8 @@ UID:1328915-20260312-900@webuntis-sync
 DESCRIPTION:De Vos\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 / 1I
  T_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\n
  ℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analysis
@@ -586,8 +586,8 @@ DTEND;TZID=Europe/Brussels:20260312T180000
 UID:503951-20260312-1600@webuntis-sync
 DESCRIPTION:De Pooter\n1ITVTAI_EA1 / 1IT_AI1 / 1IT_BUS uitdovend / 1IT_SOF
  1 / 1IT_SOF2\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:.NET OOP
@@ -604,8 +604,8 @@ DTEND;TZID=Europe/Brussels:20260313T130000
 UID:1328843-20260313-1100@webuntis-sync
 DESCRIPTION:Dams\n1IT_BUS uitdovend / 1IT_IMT1 / 1IT_SOF1 / 1IT_SOF2\n----
  ----------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data structures
@@ -614,8 +614,8 @@ DTEND;TZID=Europe/Brussels:20260316T110000
 UID:503780-20260316-1000@webuntis-sync
 DESCRIPTION:Mariën\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_SOF1 / 1IT_SOF2 / 1
  IT_VT_SOF1\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data structures
@@ -633,8 +633,8 @@ DTEND;TZID=Europe/Brussels:20260316T160000
 UID:502511-20260316-1400@webuntis-sync
 DESCRIPTION:Dams\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2\n--
  ------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Routing & switching
@@ -643,8 +643,8 @@ DTEND;TZID=Europe/Brussels:20260317T130000
 UID:517692-20260317-1100@webuntis-sync
 DESCRIPTION:Horsmans\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2
  \n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Routing & switching
@@ -714,8 +714,8 @@ DTEND;TZID=Europe/Brussels:20260320T130000
 UID:1328849-20260320-1100@webuntis-sync
 DESCRIPTION:Dams\n1IT_BUS uitdovend / 1IT_IMT1 / 1IT_SOF1 / 1IT_SOF2\n----
  ----------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data structures
@@ -742,8 +742,8 @@ DTEND;TZID=Europe/Brussels:20260323T160000
 UID:502517-20260323-1400@webuntis-sync
 DESCRIPTION:Dams\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2\n--
  ------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -770,8 +770,8 @@ UID:1328921-20260326-900@webuntis-sync
 DESCRIPTION:De Vos\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 / 1I
  T_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\n
  ℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Database programming
@@ -789,8 +789,8 @@ DTEND;TZID=Europe/Brussels:20260326T180000
 UID:503957-20260326-1600@webuntis-sync
 DESCRIPTION:De Pooter\n1ITVTAI_EA1 / 1IT_AI1 / 1IT_BUS uitdovend / 1IT_SOF
  1 / 1IT_SOF2\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:.NET OOP
@@ -807,8 +807,8 @@ DTEND;TZID=Europe/Brussels:20260327T130000
 UID:1328855-20260327-1100@webuntis-sync
 DESCRIPTION:Dams\n1IT_BUS uitdovend / 1IT_IMT1 / 1IT_SOF1 / 1IT_SOF2\n----
  ----------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data structures
@@ -817,8 +817,8 @@ DTEND;TZID=Europe/Brussels:20260330T110000
 UID:503792-20260330-1000@webuntis-sync
 DESCRIPTION:Mariën\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_SOF1 / 1IT_SOF2 / 1
  IT_VT_SOF1\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data structures
@@ -836,8 +836,8 @@ DTEND;TZID=Europe/Brussels:20260331T130000
 UID:517704-20260331-1100@webuntis-sync
 DESCRIPTION:Horsmans\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2
  \n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Routing & switching
@@ -872,8 +872,8 @@ UID:1328927-20260402-900@webuntis-sync
 DESCRIPTION:De Vos\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 / 1I
  T_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\n
  ℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analysis
@@ -900,8 +900,8 @@ DTEND;TZID=Europe/Brussels:20260403T130000
 UID:1328861-20260403-1100@webuntis-sync
 DESCRIPTION:Dams\n1IT_BUS uitdovend / 1IT_IMT1 / 1IT_SOF1 / 1IT_SOF2\n----
  ----------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data structures
@@ -910,8 +910,8 @@ DTEND;TZID=Europe/Brussels:20260420T110000
 UID:503798-20260420-1000@webuntis-sync
 DESCRIPTION:Mariën\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_SOF1 / 1IT_SOF2 / 1
  IT_VT_SOF1\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data structures
@@ -929,8 +929,8 @@ DTEND;TZID=Europe/Brussels:20260420T160000
 UID:502529-20260420-1400@webuntis-sync
 DESCRIPTION:Dams\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2\n--
  ------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -947,8 +947,8 @@ DTEND;TZID=Europe/Brussels:20260421T130000
 UID:517710-20260421-1100@webuntis-sync
 DESCRIPTION:Horsmans\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2
  \n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Routing & switching
@@ -966,8 +966,8 @@ UID:1324740-20260421-1600@webuntis-sync
 DESCRIPTION:Van Eyken\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 /
   1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n-------------------
  -\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
@@ -994,8 +994,8 @@ UID:1328933-20260423-900@webuntis-sync
 DESCRIPTION:De Vos\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 / 1I
  T_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\n
  ℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analysis
@@ -1022,8 +1022,8 @@ DTEND;TZID=Europe/Brussels:20260423T180000
 UID:503963-20260423-1600@webuntis-sync
 DESCRIPTION:De Pooter\n1ITVTAI_EA1 / 1IT_AI1 / 1IT_BUS uitdovend / 1IT_SOF
  1 / 1IT_SOF2\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:.NET OOP
@@ -1040,8 +1040,8 @@ DTEND;TZID=Europe/Brussels:20260424T130000
 UID:1328867-20260424-1100@webuntis-sync
 DESCRIPTION:Dams\n1IT_BUS uitdovend / 1IT_IMT1 / 1IT_SOF1 / 1IT_SOF2\n----
  ----------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data structures
@@ -1050,8 +1050,8 @@ DTEND;TZID=Europe/Brussels:20260427T110000
 UID:503804-20260427-1000@webuntis-sync
 DESCRIPTION:Mariën\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_SOF1 / 1IT_SOF2 / 1
  IT_VT_SOF1\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data structures
@@ -1069,8 +1069,8 @@ DTEND;TZID=Europe/Brussels:20260427T160000
 UID:502535-20260427-1400@webuntis-sync
 DESCRIPTION:Dams\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2\n--
  ------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Routing & switching
@@ -1079,8 +1079,8 @@ DTEND;TZID=Europe/Brussels:20260428T130000
 UID:517716-20260428-1100@webuntis-sync
 DESCRIPTION:Horsmans\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2
  \n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Routing & switching
@@ -1115,8 +1115,8 @@ UID:1328939-20260430-900@webuntis-sync
 DESCRIPTION:De Vos\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 / 1I
  T_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\n
  ℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analysis
@@ -1143,8 +1143,8 @@ DTEND;TZID=Europe/Brussels:20260504T110000
 UID:503810-20260504-1000@webuntis-sync
 DESCRIPTION:Mariën\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_SOF1 / 1IT_SOF2 / 1
  IT_VT_SOF1\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data structures
@@ -1162,8 +1162,8 @@ DTEND;TZID=Europe/Brussels:20260504T160000
 UID:502541-20260504-1400@webuntis-sync
 DESCRIPTION:Dams\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2\n--
  ------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -1180,8 +1180,8 @@ DTEND;TZID=Europe/Brussels:20260505T130000
 UID:517722-20260505-1100@webuntis-sync
 DESCRIPTION:Horsmans\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2
  \n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Routing & switching
@@ -1199,8 +1199,8 @@ UID:1324746-20260505-1600@webuntis-sync
 DESCRIPTION:Van Eyken\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 /
   1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n-------------------
  -\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
@@ -1227,8 +1227,8 @@ UID:1328945-20260507-900@webuntis-sync
 DESCRIPTION:De Vos\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 / 1I
  T_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\n
  ℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analysis
@@ -1255,8 +1255,8 @@ DTEND;TZID=Europe/Brussels:20260507T180000
 UID:503969-20260507-1600@webuntis-sync
 DESCRIPTION:De Pooter\n1ITVTAI_EA1 / 1IT_AI1 / 1IT_BUS uitdovend / 1IT_SOF
  1 / 1IT_SOF2\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:.NET OOP
@@ -1273,8 +1273,8 @@ DTEND;TZID=Europe/Brussels:20260508T130000
 UID:1328873-20260508-1100@webuntis-sync
 DESCRIPTION:Dams\n1IT_BUS uitdovend / 1IT_IMT1 / 1IT_SOF1 / 1IT_SOF2\n----
  ----------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data structures
@@ -1283,8 +1283,8 @@ DTEND;TZID=Europe/Brussels:20260511T110000
 UID:503816-20260511-1000@webuntis-sync
 DESCRIPTION:Mariën\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_SOF1 / 1IT_SOF2 / 1
  IT_VT_SOF1\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data structures
@@ -1302,8 +1302,8 @@ DTEND;TZID=Europe/Brussels:20260511T160000
 UID:502547-20260511-1400@webuntis-sync
 DESCRIPTION:Dams\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2\n--
  ------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analysis
@@ -1321,8 +1321,8 @@ DTEND;TZID=Europe/Brussels:20260512T130000
 UID:517728-20260512-1100@webuntis-sync
 DESCRIPTION:Horsmans\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2
  \n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Routing & switching
@@ -1364,8 +1364,8 @@ DTEND;TZID=Europe/Brussels:20260518T110000
 UID:503822-20260518-1000@webuntis-sync
 DESCRIPTION:Mariën\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_SOF1 / 1IT_SOF2 / 1
  IT_VT_SOF1\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data structures
@@ -1383,8 +1383,8 @@ DTEND;TZID=Europe/Brussels:20260518T160000
 UID:502553-20260518-1400@webuntis-sync
 DESCRIPTION:Dams\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2\n--
  ------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -1401,8 +1401,8 @@ DTEND;TZID=Europe/Brussels:20260519T130000
 UID:517734-20260519-1100@webuntis-sync
 DESCRIPTION:Horsmans\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2
  \n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Routing & switching
@@ -1420,8 +1420,8 @@ UID:1324752-20260519-1600@webuntis-sync
 DESCRIPTION:Van Eyken\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 /
   1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n-------------------
  -\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Communication
@@ -1439,8 +1439,8 @@ UID:1328951-20260521-900@webuntis-sync
 DESCRIPTION:De Vos\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 / 1I
  T_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\n
  ℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analysis
@@ -1467,8 +1467,8 @@ DTEND;TZID=Europe/Brussels:20260521T180000
 UID:503975-20260521-1600@webuntis-sync
 DESCRIPTION:De Pooter\n1ITVTAI_EA1 / 1IT_AI1 / 1IT_BUS uitdovend / 1IT_SOF
  1 / 1IT_SOF2\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:.NET OOP
@@ -1485,8 +1485,8 @@ DTEND;TZID=Europe/Brussels:20260522T130000
 UID:1328879-20260522-1100@webuntis-sync
 DESCRIPTION:Dams\n1IT_BUS uitdovend / 1IT_IMT1 / 1IT_SOF1 / 1IT_SOF2\n----
  ----------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Routing & switching
@@ -1495,8 +1495,8 @@ DTEND;TZID=Europe/Brussels:20260526T130000
 UID:517740-20260526-1100@webuntis-sync
 DESCRIPTION:Horsmans\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2
  \n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Routing & switching
@@ -1556,7 +1556,7 @@ DTEND;TZID=Europe/Brussels:20260529T130000
 UID:1328885-20260529-1100@webuntis-sync
 DESCRIPTION:Dams\n1IT_BUS uitdovend / 1IT_IMT1 / 1IT_SOF1 / 1IT_SOF2\n----
  ----------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
 END:VEVENT
 END:VCALENDAR
