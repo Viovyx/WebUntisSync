@@ -754,6 +754,23 @@ DESCRIPTION:De Magtige\n1IT_SOF2\n--------------------\nℹ️ Labo
 LOCATION:01.05.ELL (32) Cyber security
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Routing & switching
+DTSTART;TZID=Europe/Brussels:20260324T110000
+DTEND;TZID=Europe/Brussels:20260324T130000
+UID:1387216-20260324-1100@webuntis-sync
+DESCRIPTION:Horsmans\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2
+ \n--------------------\nℹ️ Theorie
+LOCATION:01.27.VIA (265) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Routing & switching
+DTSTART;TZID=Europe/Brussels:20260324T140000
+DTEND;TZID=Europe/Brussels:20260324T160000
+UID:1387204-20260324-1400@webuntis-sync
+DESCRIPTION:Horsmans\n1IT_SOF2\n--------------------\nℹ️ Labo
+LOCATION:01.03.ELL (30) Labo Netwerken
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Web programming
 DTSTART;TZID=Europe/Brussels:20260325T110000
 DTEND;TZID=Europe/Brussels:20260325T130000
@@ -851,10 +868,10 @@ BEGIN:VEVENT
 SUMMARY:Web programming
 DTSTART;TZID=Europe/Brussels:20260401T110000
 DTEND;TZID=Europe/Brussels:20260401T130000
-UID:1365666-20260401-1100@webuntis-sync
-DESCRIPTION:Verhulst\n1IT_BUS uitdovend / 1IT_SOF2\n--------------------\n
- ℹ️ Labo
-LOCATION:03.13.ELL (40) Leslokaal
+UID:1386912-20260401-1100@webuntis-sync
+DESCRIPTION:Verhulst\n1IT_BUS uitdovend / 1IT_CSC3 / 1IT_SOF2\n-----------
+ ---------\nℹ️ Labo
+LOCATION:03.06_A.VIA (40) Projectlokaal\, 03.06_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Communication
@@ -868,10 +885,10 @@ BEGIN:VEVENT
 SUMMARY:Web programming
 DTSTART;TZID=Europe/Brussels:20260402T090000
 DTEND;TZID=Europe/Brussels:20260402T110000
-UID:1328927-20260402-900@webuntis-sync
-DESCRIPTION:De Vos\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 / 1I
- T_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\n
- ℹ️ Theorie
+UID:1386906-20260402-900@webuntis-sync
+DESCRIPTION:Verhulst\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 / 
+ 1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------
+ \nℹ️ Theorie
 LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
   01.08_3.ELL (144) Auditorium 3
 END:VEVENT
