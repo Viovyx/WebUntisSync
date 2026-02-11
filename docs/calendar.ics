@@ -179,7 +179,7 @@ DTEND;TZID=Europe/Brussels:20260212T130000
 UID:496434-20260212-1100@webuntis-sync
 DESCRIPTION:Van Eyken\n1IT_BUS uitdovend / 1IT_SOF2\n--------------------\
  nℹ️ Labo
-LOCATION:-01.020.NOO (49) Leslokaal
+LOCATION:-01.020.NOO (49) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Database programming
@@ -484,7 +484,7 @@ DTEND;TZID=Europe/Brussels:20260309T130000
 UID:503609-20260309-1100@webuntis-sync
 DESCRIPTION:Mariën\n1IT_SOF2 / 1IT_VT_SOF1\n--------------------\nℹ️ 
  Labo
-LOCATION:-01.019.NOO (49) Leslokaal
+LOCATION:-01.019.NOO (49) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -679,7 +679,7 @@ UID:1120718-20260319-900@webuntis-sync
 DESCRIPTION:Verhulst\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 / 
  1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2 / 1IT_SOF3\n---------
  -----------\nℹ️ Theorie
-LOCATION:01.37.VIA (180) aula
+LOCATION:01.37.VIA (180) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analysis
@@ -688,7 +688,7 @@ DTEND;TZID=Europe/Brussels:20260319T130000
 UID:496458-20260319-1100@webuntis-sync
 DESCRIPTION:Van Eyken\n1IT_BUS uitdovend / 1IT_SOF2\n--------------------\
  nℹ️ Labo
-LOCATION:02.07_B.VIA (40) Leslokaal
+LOCATION:02.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Database programming
@@ -1293,7 +1293,7 @@ DTEND;TZID=Europe/Brussels:20260511T130000
 UID:503651-20260511-1100@webuntis-sync
 DESCRIPTION:Mariën\n1IT_SOF2 / 1IT_VT_SOF1\n--------------------\nℹ️ 
  Labo
-LOCATION:-01.007.NOO (49) Leslokaal
+LOCATION:-01.007.NOO (49) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
