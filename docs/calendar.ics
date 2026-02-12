@@ -484,7 +484,7 @@ DTEND;TZID=Europe/Brussels:20260309T130000
 UID:503609-20260309-1100@webuntis-sync
 DESCRIPTION:Mariën\n1IT_SOF2 / 1IT_VT_SOF1\n--------------------\nℹ️ 
  Labo
-LOCATION:-01.019.NOO (49) Leslokaal
+LOCATION:-01.019.NOO (49) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
